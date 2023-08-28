@@ -1,4 +1,4 @@
-# Python-Data-Scraping
+# Python Data Scraping
 
 ### Objective:
 Complete a web-scraping and data analysis project to strengthen data skills, including identification of HTML elements, automated browsing with Splinter, and parsing with Beautiful Soup. Create two deliverables: scrape Mars news article titles and preview text, and analyze Mars weather data. Demonstrate proficiency in collecting, organizing, analyzing, and visually presenting insights from web data.
